@@ -2,8 +2,8 @@ Ukázkový projekt Excel
 
 Obsah:
 
-1.	Pivottable
-2.	Country
+1.	Pivottable (table, pivotchart)
+2.	Country (table, slicer, pivotchart)
 3.	IF AND COUNTIF (MAX, MIN, LARGE, SMALL,COUNTIF)
 4.	VLOOKUP (IF, VLOOKUP)
 5.	Číselník (LEFT, FIND, LEFT/FIND, TRIM, SUBSTITUTE, LOWER, UPPER,PROPER)
